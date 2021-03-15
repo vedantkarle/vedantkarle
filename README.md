@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 👨‍💻 All of my projects are available at [vedantkarle.github.io/developer](vedantkarle.github.io/developer)
+- 👨‍💻 All of my projects are available at [https://vedantkarle.github.io/developer](https://vedantkarle.github.io/developer)
 
 - 📫 How to reach me **karlevedant7@gmail.com**
 
