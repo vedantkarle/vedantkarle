@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Prasad Priya Karle</h1>
-<h3 align="center">Full Stack Web(MERN)/App Developer(Flutter)</h3>
+<h3 align="center">Full Stack Web(MERN)/App(Flutter) Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantkarle&label=Profile%20views&color=0e75b6&style=flat" alt="vedantkarle" /> </p>
 
