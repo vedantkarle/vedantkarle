@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantkarle&label=Profile%20views&color=0e75b6&style=flat" alt="vedantkarle" /> </p>
 
-- 🔭 I’m currently working on [Memories App](https://friendly-poincare-b0d3eb.netlify.app/)
+- 🔭 I’m currently working on [Memories App](https://vedant-memories-app.netlify.app/)
 
 - 🌱 I’m currently learning **Everything**
 
