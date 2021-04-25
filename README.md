@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantkarle&label=Profile%20views&color=0e75b6&style=flat" alt="vedantkarle" /> </p>
 
-- 🔭 I’m currently working on [React Firebase Instagram Clone](https://vedantkarle.github.io/developer)
+- 🔭 I’m currently working on [React Firebase Instagram Clone](https://react-firebase-instagram-clone.vercel.app/)
 
 - 🌱 I’m currently learning **Everything**
 
