@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Flutter Google Keep Clone](https://github.com/vedantkarle)
 
-<div style="display:flex;justify-content:center;">
+<div style="display:flex;justify-content:'center';width:'100%'">
   <img src="images/I-1.jpeg" width="200" height="400"/>
   <img src="images/I-2.jpeg" width="200" height="400"/>
 </div>
