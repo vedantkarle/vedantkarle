@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantkarle&label=Profile%20views&color=0e75b6&style=flat" alt="vedantkarle" /> </p>
 
-- 🔭 I’m currently working on [Flutter Instagram Clone](https://github.com/vedantkarle)
+- 🔭 I’m currently working on [Flutter Google Keep Clone](https://github.com/vedantkarle)
 
 <div style="display:flex;">
-<img src="images/1.jpeg" width="200" height="400"/>
-<img src="images/2.jpeg" width="200" height="400"/>
-<img src="images/3.jpeg" width="200" height="400"/>
-<img src="images/4.jpeg" width="200" height="400"/>
 </div>
 
 
