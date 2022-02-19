@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantkarle&label=Profile%20views&color=0e75b6&style=flat" alt="vedantkarle" /> </p>
 
-- 🔭 I’m currently working on [MERN Trello Clone](https://github.com/vedantkarle)
+- 🔭 I’m currently working on [React Native OLX Clone](https://github.com/vedantkarle/react-native-olx-clone)
 
 <div style="display:flex;justify-content:'center';width:'100%'">
-  <img src="images/trello-clone.png"/>
+  <img src="images/olx-clone.png"/>
 </div>
 
 
