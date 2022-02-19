@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [React Native OLX Clone](https://github.com/vedantkarle/react-native-olx-clone)
 
 <div style="display:flex;justify-content:'center';width:'100%'">
-  <img src="images/olx-clone.png"/>
+  <img src="./olx-clone.png"/>
 </div>
 
 
