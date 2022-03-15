@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantkarle&label=Profile%20views&color=0e75b6&style=flat" alt="vedantkarle" /> </p>
 
-- 🔭 I’m currently working on [React Native OLX Clone](https://github.com/vedantkarle/react-native-olx-clone)
+- 🔭 I’m currently working on [NEXT JS NODE SOCIAL MEDIA APP](https://github.com/vedantkarle/nextjs-node-social-media-app)
 
 <div style="display:flex;justify-content:'center';width:'100%'">
   <img src="./olx-clone.png"/>
