@@ -5,8 +5,11 @@
 
 - 🔭 I’m currently working on [NEXT JS NODE SOCIAL MEDIA APP](https://github.com/vedantkarle/nextjs-node-social-media-app)
 
-<div style="display:flex;justify-content:'center';width:'100%'">
-  <img src="./olx-clone.png"/>
+<div style="width:'100%'">
+  <img src="./p1.png"/>
+  <img src="./p2.png"/>
+  <img src="./p3.png"/>
+  <img src="./p4.png"/>
 </div>
 
 
