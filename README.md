@@ -3,12 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantkarle&label=Profile%20views&color=0e75b6&style=flat" alt="vedantkarle" /> </p>
 
-- 🔭 I’m currently working on [MERN DISCORD CLONE](https://github.com/vedantkarle/mern-discord-clone)
+- 🔭 I’m currently working on [JS-CODE-DOC](https://www.npmjs.com/package/js-code-doc)
 
 <div style="width:'100%'">
-  <img src="./p-3.png"/>
-  <img src="./p-2.png"/>
-  <img src="./p-1.png"/>
+  <img src="./js-code-doc.png"/>
 </div>
 
 
