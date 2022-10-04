@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [JS-CODE-DOC](https://www.npmjs.com/package/js-code-doc)
 
 <div style="width:'100%'">
-  <img src="./js-code-doc.png"/>
+  <img src="./udemy-clone.png"/>
 </div>
 
 
