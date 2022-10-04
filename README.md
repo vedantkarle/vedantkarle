@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantkarle&label=Profile%20views&color=0e75b6&style=flat" alt="vedantkarle" /> </p>
 
-- 🔭 I’m currently working on [JS-CODE-DOC](https://www.npmjs.com/package/js-code-doc)
+- 🔭 I’m currently working on [UDEMY-CLONE](https://github.com/vedantkarle/mern-udemy-clone)
 
 <div style="width:'100%'">
   <img src="./udemy-clone.png"/>
